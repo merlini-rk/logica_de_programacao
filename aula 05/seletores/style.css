@@ -1,0 +1,32 @@
+h1{ 
+    font-size: 32px;
+    color: red;
+    background-color: brown;
+    text-align: center;
+}
+h2{
+    font-size: 50px;
+    color: orange;
+    background-color: rgb(132, 76, 3);
+    text-align: center;
+}
+p{
+    font-size: 16px;
+    color: green;
+    background-color: rgba(30, 168, 33, 0.766);
+    text-align: justify;
+}
+
+#umc{
+    color: palevioletred;
+    background-color: pink;
+}
+#parag1{
+    background-color: lightblue;
+}
+#parag2{
+    background-color: lightcoral;
+}
+#parag3{
+    background-color: lightslategray;
+}
